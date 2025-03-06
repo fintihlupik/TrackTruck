@@ -1,2 +1,2 @@
 # Track-Truck
-Grupo 1- Api rest
+API REST con Django y Supabase (Postgre)
